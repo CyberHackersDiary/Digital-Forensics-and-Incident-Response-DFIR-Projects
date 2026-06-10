@@ -32,3 +32,8 @@ Scenario → Objective → Evidence Collection → Analysis → Findings → MIT
   
 ## Goal
 To build practical; demonstrable DFIR experience through evidence-based investigations — the kind of work that translates directly into a SOC Analyst; DFIR Analyst; or Incident Responder role.
+
+## Connect
+- TikTok: https://www.tiktok.com/@cyberhackersdiary
+- Instagram: https://www.instagram.com/cyberhackersdiary 
+- LinkedIn: https://www.linkedin.com/in/john-kimani-13831329b/
