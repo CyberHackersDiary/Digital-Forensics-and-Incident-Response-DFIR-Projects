@@ -22,4 +22,4 @@ Examination of storage media — hard drives, SSDs, USB devices, and disk images
 ## Investigations
 | Investigation | Platform       |
 | ------------- | -------------- |
-| Coming Soon   | CyberDefenders |
+| Digital Forensics B4DM755 Case | TryHackMe |
