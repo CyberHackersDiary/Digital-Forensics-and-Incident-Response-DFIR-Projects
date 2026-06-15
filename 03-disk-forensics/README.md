@@ -22,5 +22,5 @@ Examination of storage media — hard drives, SSDs, USB devices, and disk images
 ## Investigations
 | Investigation | Platform       |
 | ------------- | -------------- |
-| Digital Forensics B4DM755 Case | TryHackMe |
-| M57-Jean — Corporate Espionage Investigation | Digital Corpora | 
+| M57-Jean — Corporate Espionage Investigation | DFIR Madness |  
+| Digital Forensics B4DM755 Case | TryHackMe | 
