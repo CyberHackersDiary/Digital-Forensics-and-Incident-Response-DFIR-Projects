@@ -1,0 +1,116 @@
+====================================================================
+EXTRACTED LOGS — M57-Jean Corporate Espionage
+Case Reference: M57-Jean Corporate Espionage
+Investigator:   John Kimani
+Tool:           FTK Imager 8.2.0.59 SP1
+Standard:       RFC 3227
+====================================================================
+
+--------------------------------------------------------------------
+INVESTIGATION LOG (Chronological)
+--------------------------------------------------------------------
+
+[6/13/2026 - 15:03 UTC] — Loaded E001-working copy.E01 into FTK Imager
+[6/13/2026 - 15:03 UTC] — Opened root partition (NTFS; 10228 MB)
+[6/13/2026 - 15:03 UTC] — Navigated to \Documents and Settings\Jean\Desktop
+[6/13/2026 - 15:05 UTC] — Located artefact: m57biz.xls
+[6/13/2026 - 15:20 UTC] — Exported m57biz.xls to case folder
+[6/13/2026 - 15:50 UTC] — Opened m57biz.xls in Microsoft Excel for content analysis
+[6/14/2026 - 22:00 UTC] — Located artefact: IPH.PH at root level
+[6/14/2026 - 22:05 UTC] — Exported IPH.PH to case folder
+[6/14/2026 - 22:10 UTC] — Exported additional artefacts: Dc1.jpg; WINDOWS; SANTAF~1.jpg
+[6/14/2026 - 22:15 UTC] — Examined msmqinst.log and WindowsUpdate.log — both 0 KB (wiped)
+
+--------------------------------------------------------------------
+ARTEFACT EXPORT HASHES (Post-Export Integrity)
+--------------------------------------------------------------------
+
+m57biz.xls
+  MD5:    E23A4EB7F2562F53E88C9DCA8B26A153
+  SHA256: 34456B5F714DC9D8DD23C742D54C3F5F582ECB042BC1C4D3042B88203863779F
+  Note:   Hash recorded post-export; no pre-export hash available for comparison
+
+IPH.PH
+  MD5:    [record your hash here]
+  SHA256: [record your hash here]
+
+--------------------------------------------------------------------
+IPH.PH — RAW CONTENT (AOL AIM Installer Log)
+--------------------------------------------------------------------
+
+[InstallerDriver01]
+vr=11.8.0.0
+pkg=AIM_6.8.10.1
+said=10E44950-CBEE-40AF-865E-A1BA534E4AD8
+suac=1
+dsid=0
+dlrc=0
+cdc=0
+isid=1
+ut1=2008/7/18 04:26:04
+hf=KB942763,KB936929
+cpu=0:6:3592
+csd=2002
+os=5.1,Service Pack 3
+br=62900.5512
+ni=tb:2,ocp:2,aim:2
+mid=AA61E407-122B-4458-B125-BDB2166556FA
+npr=1
+ram=512
+ds=6207
+pe=0
+er=999
+lcp=3003
+wow=0
+ed=1
+ut2=2008/7/18 04:32:09
+
+[Cogsworth01]
+vr=1.0.3.0
+pkg=Unspecified
+said=80A306A5-5E14-4A74-8582-D44621A8EAC9
+suac=1
+dsid=1
+dlrc=0
+isid=1
+ut1=2008/7/18 04:30:35
+ut2=2008/7/18 04:30:39
+sid=61810843035
+mid=AA61E407-122B-4458-B125-BDB2166556FA
+os=XP
+ram=512
+ed=1
+
+[Cogsworth02]
+vr=1.0.3.0
+pkg=Unspecified
+said=80A306A5-5E14-4A74-8582-D44621A8EAC9
+suac=2
+dsid=2
+dlrc=0
+isid=1
+ut1=2008/7/18 04:30:53
+ut2=2008/7/18 04:31:06
+sid=61810843053
+mid=AA61E407-122B-4458-B125-BDB2166556FA
+os=XP
+ram=512
+ed=1
+
+--------------------------------------------------------------------
+m57biz.xls — FILE METADATA
+--------------------------------------------------------------------
+
+Author (original creator):  Alison Smith
+Last Saved By:              Jean User
+Creating Application:       Microsoft Excel
+Date Created:               12 June 2008 — 15:13:51 UTC
+Last Saved:                 20 July 2008 — 01:28:03 UTC
+OS at time of save:         Windows XP (Version 5.1)
+Code Page:                  1252 (Western European)
+Size:                       291,840 bytes (285 KB)
+Path:                       \Documents and Settings\Jean\Desktop\m57biz.xls
+
+====================================================================
+END OF EXTRACTED LOGS
+====================================================================
