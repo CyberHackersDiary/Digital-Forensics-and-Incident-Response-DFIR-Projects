@@ -1,0 +1,9 @@
+Date,Time (UTC),Event,Artefact,Significance
+12 June 2008,15:13,Alison Smith creates m57biz.xls,m57biz.xls,Original file created by company President
+18 July 2008,04:26,Jean installs AIM v6.8.10.1 on laptop,IPH.PH,Unusual install hour — deliberate concealment suspected
+18 July 2008,04:30,AIM Session 1 initiated (sid: 61810843035),IPH.PH,First AIM session run minutes after install
+18 July 2008,04:31,AIM Session 2 initiated (sid: 61810843053),IPH.PH,Second AIM session — possible file transfer
+20 July 2008,01:28,Jean opens and saves m57biz.xls to desktop,m57biz.xls,Last saved by Jean User at unusual hour
+Post July 2008,Unknown,msmqinst.log wiped (0 KB),msmqinst.log,Deliberate log clearing — anti-forensic activity
+Post July 2008,Unknown,WindowsUpdate.log wiped (0 KB),WindowsUpdate.log,Deliberate log clearing — anti-forensic activity
+Post July 2008,Unknown,WINDOWS entry deleted (red X in FTK),WINDOWS,System file deleted — concealment suspected
