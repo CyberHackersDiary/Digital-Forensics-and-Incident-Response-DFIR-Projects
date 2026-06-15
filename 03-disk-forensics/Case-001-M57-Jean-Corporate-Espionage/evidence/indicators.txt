@@ -1,0 +1,71 @@
+====================================================================
+INDICATORS OF COMPROMISE — M57-Jean Corporate Espionage
+Case Reference: M57-Jean Corporate Espionage
+Investigator:   John Kimani
+====================================================================
+
+--------------------------------------------------------------------
+FILE INDICATORS
+--------------------------------------------------------------------
+
+Filename:    m57biz.xls
+Path:        \Documents and Settings\Jean\Desktop\m57biz.xls
+MD5:         E23A4EB7F2562F53E88C9DCA8B26A153
+SHA256:      34456B5F714DC9D8DD23C742D54C3F5F582ECB042BC1C4D3042B88203863779F
+Type:        Microsoft Excel 97-2003 Workbook
+Size:        291,840 bytes
+Note:        Corporate HR spreadsheet containing employee SSNs and salaries
+             Found on CFO's personal desktop — unauthorised possession
+
+Filename:    IPH.PH
+Path:        \ (root level)
+Type:        AOL AIM Installer Log (INI format)
+Size:        1,229 bytes
+Note:        Confirms AIM v6.8.10.1 installation and two active sessions
+             Install occurred at 04:26 AM — off-hours activity
+
+--------------------------------------------------------------------
+BEHAVIOURAL INDICATORS
+--------------------------------------------------------------------
+
+Off-hours file access:
+  m57biz.xls last saved at 01:28 AM UTC (20 July 2008)
+  AIM installed at 04:26 AM UTC (18 July 2008)
+  Both activities outside normal business hours — consistent with
+  deliberate concealment
+
+Unauthorised application install:
+  AIM (consumer messaging app) installed on corporate endpoint
+  Two sessions run within 5 minutes of installation
+  AIM supports direct peer-to-peer file transfer
+
+Log tampering:
+  msmqinst.log     — 0 bytes (wiped)
+  WindowsUpdate.log — 0 bytes (wiped)
+  Indicates deliberate anti-forensic activity post-exfiltration
+
+Deleted system entry:
+  WINDOWS entry marked as deleted in FTK Imager (red X)
+  Content not recoverable — possible additional evidence destruction
+
+--------------------------------------------------------------------
+MACHINE IDENTIFIERS (from IPH.PH)
+--------------------------------------------------------------------
+
+Machine ID:   AA61E407-122B-4458-B125-BDB2166556FA
+OS:           Windows XP Service Pack 3 (Version 5.1)
+RAM:          512 MB
+AIM User SID: 61810843035 / 61810843053
+
+--------------------------------------------------------------------
+MITRE ATT&CK TECHNIQUE IDS
+--------------------------------------------------------------------
+
+T1005     — Data from Local System
+T1048.003 — Exfiltration over Unencrypted Protocol
+T1070.004 — Indicator Removal: File Deletion
+T1078     — Valid Accounts
+
+====================================================================
+END OF INDICATORS
+====================================================================
