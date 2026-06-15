@@ -45,3 +45,8 @@ Examination of storage media — hard drives, SSDs, USB devices, and disk images
 | Investigation | Methodology Source | Applied Investigation Dataset |
 | ------------- | -------------- | -------------- |
 | Case-001-M57-Jean-Corporate Espionage Investigation   | TryHackMe — Case B4DM755  | M57-Jean; Digital Corpora |
+
+## Key
+Case Title — the name of your independent replica project; what you are investigating
+Methodology Source — the lab or room where you learned the investigation methodology; not documented directly
+Independent Replica Dataset — the real forensic image or dataset you sourced independently and applied the methodology on
