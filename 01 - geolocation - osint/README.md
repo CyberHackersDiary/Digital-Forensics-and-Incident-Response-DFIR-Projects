@@ -28,26 +28,36 @@ Every investigation in this folder starts with raw, unverified visual evidence a
 Each investigation follows a disciplined, repeatable eight-stage workflow:
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│  1. RESEARCH QUESTION    Define what needs to be located and why         │
-│          ↓                                                               │
-│  2. COLLECTION           Gather all available visual and open-source     │
-│          ↓               evidence                                        │
-│  3. VERIFICATION         Validate evidence integrity and source          │
-│          ↓               credibility                                     │
-│  4. CORRELATION          Cross-reference clues across multiple           │
-│          ↓               independent sources                             │
-│  5. ANALYSIS             Apply geolocation techniques to extract         │
-│          ↓               location indicators                             │
-│  6. FINDINGS             Establish the most probable location with       │
-│          ↓               supporting evidence                             │
-│  7. INTELLIGENCE         Assess confidence level, limitations, and       │
-│     ASSESSMENT    ↓      alternative hypotheses                          │
-│  8. REPORT               Document conclusions in a structured,           │
-│                          reproducible investigation report               │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║               INVESTIGATIVE METHODOLOGY                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  01  RESEARCH QUESTION                                       ║
+║      Define what needs to be located and why                 ║
+║                              ↓                               ║
+║  02  COLLECTION                                              ║
+║      Gather all available visual and open-source evidence    ║
+║                              ↓                               ║
+║  03  VERIFICATION                                            ║
+║      Validate evidence integrity and source credibility      ║
+║                              ↓                               ║
+║  04  CORRELATION                                             ║
+║      Cross-reference clues across multiple sources           ║
+║                              ↓                               ║
+║  05  ANALYSIS                                                ║
+║      Apply geolocation techniques to extract indicators      ║
+║                              ↓                               ║
+║  06  FINDINGS                                                ║
+║      Establish the most probable location with evidence      ║
+║                              ↓                               ║
+║  07  INTELLIGENCE ASSESSMENT                                 ║
+║      Assess confidence level and alternative hypotheses      ║
+║                              ↓                               ║
+║  08  REPORT                                                  ║
+║      Document conclusions in a reproducible format           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
 ```
 
 Every conclusion is evidence-backed. Every step is reproducible.
