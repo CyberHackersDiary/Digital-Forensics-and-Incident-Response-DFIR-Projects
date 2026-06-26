@@ -31,8 +31,35 @@ Every investigation in this portfolio is independently conducted from scratch. E
 Every case follows a structured pipeline designed for rigor and reproducibility:
 
 ```
-Research Question → Collection → Verification → Correlation
-       → Analysis → Findings → Intelligence Assessment → Report
+╔══════════════════════════════════════════════════════════════╗
+║               INVESTIGATIVE METHODOLOGY                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  01  RESEARCH QUESTION                                       ║
+║      Define what needs to be located and why                 ║
+║                              ↓                               ║
+║  02  COLLECTION                                              ║
+║      Gather all available visual and open-source evidence    ║
+║                              ↓                               ║
+║  03  VERIFICATION                                            ║
+║      Validate evidence integrity and source credibility      ║
+║                              ↓                               ║
+║  04  CORRELATION                                             ║
+║      Cross-reference clues across multiple sources           ║
+║                              ↓                               ║
+║  05  ANALYSIS                                                ║
+║      Apply geolocation techniques to extract indicators      ║
+║                              ↓                               ║
+║  06  FINDINGS                                                ║
+║      Establish the most probable location with evidence      ║
+║                              ↓                               ║
+║  07  INTELLIGENCE ASSESSMENT                                 ║
+║      Assess confidence level and alternative hypotheses      ║
+║                              ↓                               ║
+║  08  REPORT                                                  ║
+║      Document conclusions in a reproducible format           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 Each stage emphasizes source validation, evidence corroboration, and documented reasoning — the same standards applied in professional investigative and intelligence contexts.
