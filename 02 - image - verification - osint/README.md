@@ -53,9 +53,9 @@ This repository documents my journey in image verification through practical inv
 
 | Case Study                         | Skills Applied                                                   
 | ---------------------------------- | ------------------------------------------------------------ | 
-| Reverse Image Search Challenge 01  | Identify original source of an image                         | 
-| Image Verification Challenge 02    | Verify authenticity and context                              | 
-| Misinformation Image Investigation | Determine whether an image has been reused or misrepresented | 
+| Reverse Image Search Challenge 01  | Google Lens, TinEye                         | 
+| Image Verification Challenge 02    | Metadata Analysis, Source Verification                              | 
+| Misinformation Image Investigation | Reverse Image Search, Context Analysis | 
 
 ## Objective
 
