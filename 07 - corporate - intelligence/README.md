@@ -1,60 +1,131 @@
-# Corporate Intelligence
+# 🏢 Corporate Intelligence
 
-Researching organizations, corporate structures, public records, and business activities using open-source intelligence techniques.
+> Researching organisations, corporate structures, executive profiles, and business activities through open-source intelligence and evidence-based investigation — from a single company name to a fully documented intelligence assessment.
 
-This repository documents my journey in corporate intelligence through practical case studies, investigative methodologies, and real-world analysis.
+Every investigation in this folder starts with an organisation or entity of interest and ends with a documented, reproducible corporate intelligence finding. No assumptions. No shortcuts. Evidence in, intelligence out.
 
-## Areas of Focus
+---
 
-* Company Research
-* Corporate Structures
-* Executive Profiling
-* Due Diligence
-* Risk Assessment
-* Ownership Analysis
-* Reputation Assessment
-* Public Filings Research
-* Business Verification
-* Evidence Documentation & Reporting
+## 🎯 What This Covers
 
-## Investigation Methodology
+| Technique | What It Involves |
+|---|---|
+| **Company Research** | Building a comprehensive intelligence picture of an organisation's history, activities, and standing |
+| **Corporate Structures** | Mapping subsidiaries, parent companies, and complex ownership arrangements |
+| **Executive Profiling** | Investigating leadership backgrounds, affiliations, and public records through open sources |
+| **Due Diligence** | Conducting structured pre-engagement research to assess risk and verify claims |
+| **Risk Assessment** | Evaluating reputational, financial, and operational risks from publicly available evidence |
+| **Ownership Analysis** | Tracing beneficial ownership, shareholding structures, and corporate relationships |
+| **Reputation Assessment** | Reviewing litigation history, regulatory actions, adverse media, and public perception |
+| **Public Filings Research** | Extracting intelligence from regulatory filings, company registries, and official disclosures |
+| **Business Verification** | Confirming the legitimacy, registration status, and operational reality of an organisation |
+| **Evidence Documentation** | Recording all findings in structured, verifiable, and reproducible investigation reports |
 
-1. Identify the organization or entity.
-2. Collect publicly available corporate information.
-3. Analyze structures, relationships, and activities.
-4. Verify findings across multiple sources.
-5. Assess risks and credibility.
-6. Document conclusions with supporting evidence.
+---
 
-## Tools
+## 🔬 Investigative Methodology
 
-* OpenCorporates
-* LinkedIn
-* Google Search
-* Maltego
-* SEC Filings
-* Wayback Machine
+Each investigation follows a disciplined, repeatable eight-stage workflow:
 
-## Skills Demonstrated
+```
+╔══════════════════════════════════════════════════════════════╗
+║               INVESTIGATIVE METHODOLOGY                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  01  RESEARCH QUESTION                                       ║
+║      Define the organisation, entity, or intelligence        ║
+║      requirement under investigation                         ║
+║                              ↓                               ║
+║  02  COLLECTION                                              ║
+║      Gather corporate filings, ownership records,            ║
+║      executive profiles, and publicly available data         ║
+║                              ↓                               ║
+║  03  VERIFICATION                                            ║
+║      Validate source credibility and information integrity   ║
+║                              ↓                               ║
+║  04  CORRELATION                                             ║
+║      Cross-reference findings across company registries,     ║
+║      filings, media, and independent intelligence sources    ║
+║                              ↓                               ║
+║  05  ANALYSIS                                                ║
+║      Apply corporate intelligence techniques to map          ║
+║      structures, relationships, and risk indicators          ║
+║                              ↓                               ║
+║  06  FINDINGS                                                ║
+║      Establish key conclusions on corporate legitimacy,      ║
+║      ownership, and associated risk                          ║
+║                              ↓                               ║
+║  07  INTELLIGENCE ASSESSMENT                                 ║
+║      Assess confidence level, due diligence conclusions,     ║
+║      and alternative interpretations                         ║
+║                              ↓                               ║
+║  08  REPORT                                                  ║
+║      Document conclusions in a structured, reproducible      ║
+║      corporate intelligence report                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-* Corporate Intelligence
-* Due Diligence
-* Open-Source Research
-* Risk Assessment
-* Information Verification
-* Critical Thinking
-* Documentation & Reporting
+Every conclusion is evidence-backed. Every step is reproducible.
 
-## Investigations
+---
 
-| Case Study                       | Skills Applied                           |
-| -------------------------------- | ---------------------------------------- |
-| Company Profile Investigation    | Company Research, Verification           |
-| Executive Profiling Case Study   | Profile Analysis, Open-Source Research   |
-| Corporate Structure Assessment   | Ownership Analysis, Relationship Mapping |
-| Due Diligence Investigation      | Risk Assessment, Verification            |
-| Business Verification Case Study | Information Verification, Documentation  |
+## 🛠️ Tools & Platforms
 
-## Objective
+| Category | Tools |
+|---|---|
+| **Company Registries** | OpenCorporates |
+| **Regulatory Filings** | SEC Filings |
+| **Professional Networks** | LinkedIn |
+| **Web & Archive Research** | Google Search · Wayback Machine |
+| **Network & Link Analysis** | Maltego |
 
-To develop expertise in corporate intelligence by researching organizations and documenting reproducible due diligence methodologies.
+---
+
+## 💡 Skills Demonstrated
+
+- **Corporate Intelligence** — Researching organisations through public records, filings, and open-source data
+- **Due Diligence** — Conducting structured pre-engagement research to assess risk and verify claims
+- **Ownership Analysis** — Tracing beneficial ownership, shareholding structures, and corporate relationships
+- **Risk Assessment** — Evaluating reputational, financial, and operational risks from open-source evidence
+- **Information Verification** — Cross-referencing corporate claims against independent and official sources
+- **Professional Reporting** — Documenting investigations in clear, structured, reproducible formats
+
+---
+
+## 📂 Investigations
+
+| # | Investigation | Techniques Applied | Outcome |
+|---|---|---|---|
+| 01 | Company Profile Investigation | Company research, verification | ✅ Profiled |
+| 02 | Executive Profiling Case Study | Profile analysis, open-source research | ✅ Profiled |
+| 03 | Corporate Structure Assessment | Ownership analysis, relationship mapping | ✅ Mapped |
+| 04 | Due Diligence Investigation | Risk assessment, verification | ✅ Assessed |
+| 05 | Business Verification Case Study | Information verification, documentation | ✅ Verified |
+
+> New investigations added regularly as cases are completed.
+
+---
+
+## ⚠️ Responsible Use
+
+All investigations in this folder are conducted strictly using open-source intelligence and publicly available data:
+
+- **Legal compliance** — All methods comply with applicable laws and platform terms of service
+- **Public data only** — No unauthorised access to private, restricted, or confidential corporate information
+- **Responsible handling** — Sensitive findings and attribution conclusions are handled with appropriate care
+- **Educational purpose** — All case studies are conducted for learning and portfolio demonstration only
+
+---
+
+## 🎯 Objective
+
+To develop and demonstrate professional-grade corporate intelligence expertise — researching organisations, mapping ownership structures, conducting due diligence assessments, and documenting each investigation as a structured, reproducible intelligence report that meets real-world investigative and professional standards.
+
+---
+
+<div align="center">
+
+📁 Part of the [OSINT & Digital Investigations Portfolio](../README.md)
+
+</div>
