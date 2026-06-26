@@ -1,63 +1,113 @@
-# Image Verification
+# 🖼️ Image Verification Investigations
 
-Verifying the authenticity, origin, context, and integrity of images using open-source intelligence techniques, visual analysis, and evidence-based investigation.
+> Determining the authenticity, origin, context, and integrity of digital images through open-source intelligence, visual analysis, and systematic evidence-based investigation — from a single image to a verified intelligence finding.
 
-This repository documents my journey in image verification through practical investigations, verification methodologies, and real-world case studies.
+Every investigation in this folder starts with an unverified image and ends with a documented, reproducible verification finding. No assumptions. No shortcuts. Evidence in, intelligence out.
 
-## Areas of Focus
+---
 
-* Reverse Image Searching
-* Visual Clue Analysis
-* Metadata Examination
-* Image Source Verification
-* Context Verification
-* Landmark & Location Identification
-* Manipulation Detection
-* Misinformation & Disinformation Analysis
-* Image Attribution
-* Evidence Documentation & Reporting
+## 🎯 What This Covers
 
-## Investigation Methodology
+| Technique | What It Involves |
+|---|---|
+| **Reverse Image Searching** | Tracing image origins across the web using visual search engines |
+| **Visual Clue Analysis** | Extracting embedded geographic, temporal, and contextual indicators from images |
+| **Metadata Examination** | Analysing EXIF and embedded metadata for device, location, and timestamp data |
+| **Image Source Verification** | Confirming where an image first appeared and tracing its publication history |
+| **Context Verification** | Validating whether an image accurately represents the event or claim it accompanies |
+| **Landmark & Location Identification** | Identifying geographic locations from visual features within the image |
+| **Manipulation Detection** | Identifying signs of digital alteration, cropping, or synthetic generation |
+| **Misinformation & Disinfo Analysis** | Investigating images used to spread false narratives or misleading content |
+| **Image Attribution** | Establishing the original creator, source, and chain of custody of an image |
+| **Evidence Documentation** | Recording all findings in structured, verifiable, and reproducible investigation reports |
 
-1. Collect the image and available context.
-2. Examine visual clues and identifiable features.
-3. Conduct reverse image searches.
-4. Analyze metadata where available.
-5. Verify source, location, and context.
-6. Correlate findings with multiple sources.
-7. Document conclusions with supporting evidence.
+---
 
-## Tools
+## 🔬 Investigative Methodology
 
-* Google Lens
-* TinEye
-* Yandex Images
-* Bing Visual Search
-* ExifTool
-* FotoForensics
-* Google Earth Pro
-* Google Maps
-* InVID
+Each investigation follows a disciplined, repeatable eight-stage workflow:
 
-## Skills Demonstrated
+```
+╔══════════════════════════════════════════════════════════════╗
+║               INVESTIGATIVE METHODOLOGY                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  01  RESEARCH QUESTION                                       ║
+║      Define what needs to be verified and why                ║
+║                              ↓                               ║
+║  02  COLLECTION                                              ║
+║      Gather the image, metadata, and all available context   ║
+║                              ↓                               ║
+║  03  VERIFICATION                                            ║
+║      Validate source credibility and image integrity         ║
+║                              ↓                               ║
+║  04  CORRELATION                                             ║
+║      Cross-reference findings across multiple sources        ║
+║                              ↓                               ║
+║  05  ANALYSIS                                                ║
+║      Apply verification techniques to extract indicators     ║
+║                              ↓                               ║
+║  06  FINDINGS                                                ║
+║      Establish authenticity, origin, and context with        ║
+║      supporting evidence                                     ║
+║                              ↓                               ║
+║  07  INTELLIGENCE ASSESSMENT                                 ║
+║      Assess confidence level and alternative explanations    ║
+║                              ↓                               ║
+║  08  REPORT                                                  ║
+║      Document conclusions in a reproducible format           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-* Visual Intelligence Analysis
-* Open-Source Research
-* Image Verification
-* Critical Thinking
-* Evidence-Based Investigation
-* Source Validation
-* Documentation & Reporting
+Every conclusion is evidence-backed. Every step is reproducible.
 
-## Investigations
+---
 
-| Case Study                         | Skills Applied                                                   
-| ---------------------------------- | ------------------------------------------------------------ | 
-| Reverse Image Search Challenge 01  | Google Lens, TinEye                         | 
-| Image Verification Challenge 02    | Metadata Analysis, Source Verification                              | 
-| Misinformation Image Investigation | Reverse Image Search, Context Analysis | 
+## 🛠️ Tools & Platforms
 
-## Objective
+| Category | Tools |
+|---|---|
+| **Reverse Image Search** | Google Lens · TinEye · Yandex Images · Bing Visual Search |
+| **Metadata Analysis** | ExifTool |
+| **Forensic Analysis** | FotoForensics |
+| **Geolocation Verification** | Google Earth Pro · Google Maps |
+| **Video & Image Analysis** | InVID |
 
-To develop expertise in image verification by accurately assessing the authenticity, origin, and context of digital images using OSINT techniques and documenting reproducible investigative methodologies.
+---
+
+## 💡 Skills Demonstrated
+
+- **Visual Intelligence** — Extracting geographic, temporal, and contextual clues from digital images
+- **Analytical Thinking** — Forming, testing, and eliminating hypotheses about image authenticity
+- **Open-Source Research** — Leveraging publicly available tools and databases for image verification
+- **Source Validation** — Tracing image origins and confirming publication history across platforms
+- **Critical Thinking** — Evaluating conflicting evidence and assessing alternative explanations
+- **Professional Reporting** — Documenting investigations in clear, structured, reproducible formats
+
+---
+
+## 📂 Investigations
+
+| # | Investigation | Techniques Applied | Outcome |
+|---|---|---|---|
+| 01 | Reverse Image Search Challenge 01 | Google Lens, TinEye | ✅ Verified |
+| 02 | Image Verification Challenge 02 | Metadata analysis, source verification | ✅ Verified |
+| 03 | Misinformation Image Investigation | Reverse image search, context analysis | ✅ Verified |
+
+> New investigations added regularly as cases are completed.
+
+---
+
+## 🎯 Objective
+
+To develop and demonstrate professional-grade image verification expertise — accurately assessing the authenticity, origin, and context of digital images from visual evidence alone, and documenting each investigation as a structured, reproducible intelligence report that meets real-world investigative standards.
+
+---
+
+<div align="center">
+
+📁 Part of the [OSINT & Digital Investigations Portfolio](../README.md)
+
+</div>
 
