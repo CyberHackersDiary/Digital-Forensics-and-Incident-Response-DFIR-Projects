@@ -1,4 +1,4 @@
-# OSINT & Digital Investigations Portfolio
+# Digital Investigations & OSINT Portfolio
 
 > Open-source intelligence investigations spanning geolocation, media verification, social networks, threat intelligence, corporate research, fraud, and humanitarian analysis — each case documented to professional reporting standards.
 
