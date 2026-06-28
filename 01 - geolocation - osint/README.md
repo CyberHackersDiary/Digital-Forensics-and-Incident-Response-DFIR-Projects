@@ -1,4 +1,4 @@
-# 🗺️ Geolocation Investigations
+#  Geolocation Investigations
 
 > Pinpointing the location of images and videos using visual clues, satellite imagery, open-source mapping, and systematic evidence-based analysis — from a single photograph to a verified coordinate.
 
@@ -6,7 +6,7 @@ Every investigation in this folder starts with raw, unverified visual evidence a
 
 ---
 
-## 🎯 What This Covers
+##  What This Covers
 
 | Technique | What It Involves |
 |---|---|
@@ -23,7 +23,7 @@ Every investigation in this folder starts with raw, unverified visual evidence a
 
 ---
 
-## 🔬 Investigative Methodology
+##  Investigative Methodology
 
 Each investigation follows a disciplined, repeatable eight-stage workflow:
 
@@ -64,7 +64,7 @@ Every conclusion is evidence-backed. Every step is reproducible.
 
 ---
 
-## 🛠️ Tools & Platforms
+##  Tools & Platforms
 
 | Category | Tools |
 |---|---|
@@ -75,7 +75,7 @@ Every conclusion is evidence-backed. Every step is reproducible.
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 - **Visual Intelligence** — Reading images and video frames for embedded geographic indicators
 - **Analytical Thinking** — Forming, testing, and eliminating location hypotheses systematically
@@ -86,7 +86,7 @@ Every conclusion is evidence-backed. Every step is reproducible.
 
 ---
 
-## 📂 Investigations
+##  Investigations
 
 | # | Investigation | Techniques Applied | Outcome |
 |---|---|---|---|
@@ -98,7 +98,7 @@ Every conclusion is evidence-backed. Every step is reproducible.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To develop and demonstrate professional-grade OSINT geolocation expertise — accurately locating images and videos from visual evidence alone, and documenting each investigation as a structured, reproducible intelligence report that meets real-world investigative standards.
 
